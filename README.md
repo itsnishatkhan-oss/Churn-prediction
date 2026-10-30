@@ -140,17 +140,4 @@ streamlit run app/streamlit_app.py
 # Access at: http://localhost:8501
 ```
 
-**To set up PostgreSQL (optional):**
-```bash
-createdb churn_db
-psql -d churn_db -f sql/schema.sql
-```
-## Author
 
-**Mukul**  
-Data Science Enthusiast  
-[GitHub](https://github.com/mukuldhattarwal)
-
----
-
-⭐ If you found this useful, consider giving it a star!
