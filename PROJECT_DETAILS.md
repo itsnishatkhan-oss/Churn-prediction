@@ -554,34 +554,4 @@ This project demonstrates:
 
 ---
 
-## 📞 Contact & Support
 
-**Author:** Mukul  
-**GitHub:** https://github.com/phantom074  
-**Email:** [Your email here]  
-
-### Citation:
-```bibtex
-@misc{mukul2024churnprediction,
-  title={Customer Churn Prediction & Analytics Platform},
-  author={Mukul},
-  year={2024},
-  publisher={GitHub},
-  howpublished={\url{https://github.com/phantom074/customer-churn-prediction}}
-}
-```
-
----
-
-## ⭐ Acknowledgments
-
-- **IBM Telco Churn Dataset:** Available on Kaggle
-- **Bank Customer Churn Dataset:** Available on Kaggle
-- **Streamlit Documentation:** https://docs.streamlit.io
-- **SHAP Library:** https://github.com/slundberg/shap
-
----
-
-**Last Updated:** March 5, 2026  
-**Python Version:** 3.14  
-**Project Status:** Production Ready ✅
